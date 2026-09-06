@@ -1,0 +1,2 @@
+$ curl http://localhost:3060/api/gifts/1
+{"_id":"6a99c3d17ca976932e856a8e","id":"1","category":"Home Decor","condition":"Good","age_days":30,"description":"A beautiful wall clock, perfect for any living room.","age_years":0,"image":"","name":"Wall Clock","date_added":1690000000}
